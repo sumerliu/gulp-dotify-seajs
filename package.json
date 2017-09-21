@@ -1,0 +1,31 @@
+{
+  "name": "gulp-dotify-seajs",
+  "version": "1.0.1",
+  "description": "Gulp plugin for precompilation of doT templates with seajs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sumerliu/gulp-dotify-seajs.git"
+  },
+  "keywords": [
+    "gulp",
+    "doT",
+    "seajs",
+    "precompilation"
+  ],
+  "author": "Tianjiao Liu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sumerliu/gulp-dotify-seajs/issues"
+  },
+  "homepage": "https://github.com/sumerliu/gulp-dotify-seajs#readme",
+  "dependencies": {
+    "dot": "~1.0.2",
+    "gulp-util": "~2.2.12",
+    "lodash": "~2.4.1",
+    "through2": "~0.4.0"
+  }
+}
