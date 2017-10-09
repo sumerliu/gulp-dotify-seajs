@@ -1,6 +1,6 @@
 {
   "name": "gulp-dotify-seajs",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Gulp plugin for precompilation of doT templates with seajs",
   "main": "index.js",
   "scripts": {

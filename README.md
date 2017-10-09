@@ -1,4 +1,4 @@
-# gulp-dotify
+# gulp-dotify-seajs
 
 [Gulp](https://github.com/gulpjs/gulp) plugin for precompilation of [doT](https://github.com/olado/doT) templates for seajs.
 
